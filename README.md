@@ -96,7 +96,7 @@ The model analyses voice features such as jitter, shimmer, and frequency variati
 ## 📚 References
 - Little, Max A., et al. "Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection." BioMedical Engineering OnLine, 2007.
 - UCI Parkinson’s Dataset
-- [Scikit-learn Documentation] (https://archive.ics.uci.edu/ml/datasets/parkinsons?utm_source=chatgpt.com)
+- [Scikit-learn Documentation](https://archive.ics.uci.edu/ml/datasets/parkinsons?utm_source=chatgpt.com)
 
 ## 👩‍💻 Authors
 Aakriti Jain, Ujjawal Gaur
