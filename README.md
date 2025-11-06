@@ -99,8 +99,8 @@ The model analyses voice features such as jitter, shimmer, and frequency variati
 - [Scikit-learn Documentation](https://archive.ics.uci.edu/ml/datasets/parkinsons?utm_source=chatgpt.com)
 
 ## 👩‍💻 Authors
-Aakriti Jain, Ujjawal Gaur
-B.Tech in Artificial Intelligence and Data Science
-GGSIPU, 2026
+- Aakriti Jain, Ujjawal Gaur
+- B.Tech in Artificial Intelligence and Data Science
+- GGSIPU, 2026
 
 If you found this project interesting, give it a star on GitHub! 🌟
